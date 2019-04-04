@@ -1,0 +1,62 @@
+/*Element Selectors*/
+p {
+	font-size: 22px;
+}
+
+
+/*Class Selectors*/
+.beer_intro {
+	width: 625px;
+}
+
+.beer_title {
+	float: right;
+}
+
+.link_bar {
+	border: black solid 1px;
+	width: 625px;
+	height: auto;
+}
+
+.link_container {
+	margin-right : 10px;
+	float: left;
+}
+
+.ingredients {
+	width: 600px;
+	height: auto;
+	margin-bottom: 50px;
+}
+
+.ingredient_desc_ex {
+	font: serif;
+	width: 500px;
+	height: auto;
+	margin-left: 25px;
+
+}
+
+.ingredient_cat {
+	width: 500px;
+	height:auto;
+}
+
+.ingredient_notes {
+	width: auto;
+	height: auto;
+	margin-left: 15px;
+}
+
+
+/* Image styles */
+.ingredient_image {
+	display: block;
+	float: right;
+	max-width: 50%;
+	margin-left: 20px;
+	margin-top: 15px;
+	height: 800px;
+	width: 100px;
+}
